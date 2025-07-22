@@ -1,5 +1,15 @@
 # Random Tables
 
+---
+
+## Resources & Community
+
+- [Get the games (Links)](get-the-games.md)
+ 
+- <span style="color:#fff;background:#7289da;padding:0.2em 0.7em;border-radius:6px;font-weight:bold;">Join the <a href="https://discord.gg/k2rQMa33Kq" style="color:#fff;">Discord Community</a>!</span>
+
+---
+
 Random Tables are a powerful way to generate inspiration, events, loot, or answers in your game. PUM makes it easy to create, import, and use random tables for any purpose.
 
 ## What are Random Tables?

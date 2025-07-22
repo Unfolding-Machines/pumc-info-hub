@@ -44,17 +44,23 @@ theme:
     repo: fontawesome/brands/github
 
 nav:
-  - Home: index.md
-  - About Plot Unfolding Machine: about-pum.md
-  - Plot Tracks: plot-tracks.md
-  - Plot Nodes: plot-nodes.md
-  - Plot Focus: plot-focus.md
-  - Dice Formula Expressions: dice-formulas.md
-  - Random Tables: random-tables.md
-  - Decks & Cards: decks-cards.md
-  - Markdown Text Styling: markdown-styling.md
-  - How to Play: how-to-play.md
-  - Game Concepts: game-concepts.md
-  - Oracles: oracles.md
-  - FAQ & Tips: faq-tips.md
-  - Resources & Downloads: resources.md
+  - Welcome Page: index.md
+  # Information section moved to bottom
+  - About the Unfolding Machines: about-pum.md
+  - Community: community.md
+  - How to Play PUM:
+      - Quick-Start Guide: quick-start-guide.md
+      - Plot Tracks: plot-tracks.md
+      - Plot Nodes: plot-nodes.md
+      - Plot Focus: plot-focus.md
+      - Oracles: oracles.md
+      - Game Concepts: game-concepts.md
+  - PUM Companion:
+      - Dice Formula Expressions: dice-formulas.md
+      - Random Tables: random-tables.md
+      - Decks & Cards: decks-cards.md
+      - Markdown Text Styling: markdown-styling.md
+  - Information:
+      - Get the games: get-the-games.md
+      - Resources & Downloads: resources.md
+      - FAQ: faq-tips.md
