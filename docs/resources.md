@@ -14,7 +14,6 @@ Here you’ll find community resources, downloadable templates, and links to exp
 ## Official Links
 - [PUM Companion GitHub](https://github.com/Unfolding-Machines/pumc-wiki-space/)
 - [Discord Community](https://discord.gg/your-invite-link)
-- [Official Rulebook PDF](../Plot%20Unfolding%20Machine%20ENGLISH%20v8-31.pdf)
 
 ## More to Explore
 - Submit your resources for inclusion here!

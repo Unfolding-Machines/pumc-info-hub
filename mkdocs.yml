@@ -56,6 +56,7 @@ nav:
       - Oracles: oracles.md
       - Game Concepts: game-concepts.md
   - PUM Companion:
+      - What is PUM Companion?: pum-companion.md
       - Dice Formula Expressions: dice-formulas.md
       - Random Tables: random-tables.md
       - Decks & Cards: decks-cards.md

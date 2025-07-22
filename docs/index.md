@@ -16,22 +16,6 @@
 
 ---
 
-## What is PUM Companion?
-
-<b>PUM Companion</b> is a digital app and system for creating and playing your own adventures—solo or with friends. Inspired by tools like the Mythic GM Emulator, PUM blends improvisational storytelling, random prompts, and RPG mechanics for a unique experience every time.
-
-**Key Features:**
-- Story-driven or random gameplay
-- Manage plot nodes, characters, and locations
-- Use oracles, dice, random tables, and decks for inspiration
-- Export and share your stories
-
-<p align="center">
-  <img src="assets/screenshots/pumc-animated.gif" alt="PUMC Animated Demo" width="60%" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(110,80,60,0.07); margin: 1.5em 0;" />
-</p>
-
----
-
 
 ## Explore the Wiki
 
