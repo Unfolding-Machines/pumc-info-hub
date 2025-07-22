@@ -10,3 +10,13 @@ We welcome contributions that help the community, including:
 - General solo RPG play advice (considering different playstyles and preferences)
 
 Please ensure all contributions respect copyright and maintain a helpful, inclusive tone and credit the creators.
+
+## How to Run and Preview the wiki localy
+Git clone this repository, navigate to your local files or load VSCode, then:
+
+Install mkdocs: `pip install mkdocs mkdocs-material`
+
+Preview and run with: `mkdocs serve`
+
+### by JeansenVaars (Unfolding Machines) and the community
+Enjoy!
