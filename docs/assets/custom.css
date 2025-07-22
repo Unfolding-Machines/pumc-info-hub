@@ -1,0 +1,98 @@
+/* Cozy, storytelling-inspired custom styles for PUM Companion Wiki */
+
+body, .md-typeset {
+  font-family: 'Merriweather', Georgia, serif;
+  background: #f8f5f2;
+}
+
+.md-header, .md-footer {
+  background: #6d4c41;
+  color: #fff;
+}
+
+.md-nav__title, .md-nav__link, .md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  color: #4e342e;
+}
+
+.md-typeset h1 {
+  font-size: 2.2em;
+  font-weight: 700;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+  letter-spacing: 0.01em;
+}
+
+.md-typeset h2 {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.md-typeset h3 {
+  font-size: 1.2em;
+  font-weight: 500;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+}
+
+.md-typeset code, .md-typeset pre {
+  background: #f3e9e0;
+  color: #6d4c41;
+  border-radius: 4px;
+}
+
+.md-typeset blockquote {
+  background: #f3e9e0;
+  border-left: 4px solid #bcaaa4;
+  color: #5d4037;
+  padding: 0.8em 1.2em;
+  margin: 1.2em 0;
+  font-style: italic;
+}
+
+.md-typeset a {
+  color: #8d6e63;
+  text-decoration: underline dotted;
+}
+
+.md-typeset a:hover {
+  color: #4e342e;
+  text-decoration: underline solid;
+}
+
+.md-typeset ul, .md-typeset ol {
+  margin-bottom: 1.2em;
+}
+
+.md-typeset .admonition, .md-typeset details {
+  background: #f3e9e0;
+  border-left: 4px solid #bcaaa4;
+}
+
+/* Subtle card effect for main content */
+.md-content__inner {
+  background: #fffdfa;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(110, 80, 60, 0.07);
+  padding: 2em 2.5em;
+}
+
+/* Cozy navigation */
+.md-nav {
+  background: #f5ede6;
+}
+
+/* Optional: Add a subtle texture or pattern to the background for extra coziness */
+/* body {
+  background-image: url('pattern.png');
+  background-size: 400px 400px;
+  opacity: 0.98;
+} */
+
+/* Responsive tweaks */
+@media (max-width: 700px) {
+  .md-content__inner {
+    padding: 1em 0.5em;
+  }
+}

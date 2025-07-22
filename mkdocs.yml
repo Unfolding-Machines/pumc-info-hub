@@ -1,5 +1,8 @@
+theme:
+
 site_name: PUM Companion Wiki Space
-site_description: Public knowledge base for PUM Companion:a tool for Solo RPG, storytelling, and journaling.
+site_description: >-
+  A cozy, professional, and inspiring community wiki for PUM Companion: the app for solo RPG, storytelling, and journaling. Discover, create, and share your stories.
 site_url: https://Unfolding-Machines.github.io/pumc-wiki-space/
 repo_url: https://github.com/Unfolding-Machines/pumc-wiki-space/
 repo_name: Unfolding-Machines/pumc-wiki-space
@@ -7,13 +10,51 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  logo: assets/logos/pumc_icon_512.png  # Updated to use the new PUMC icon
+  favicon: assets/logos/unfolding_machines.png  # Updated to use Unfolding Machines logo as favicon
+  font:
+    text: 'Merriweather'
+    code: 'Fira Mono'
   palette:
-    scheme: default
+    - scheme: slate  # Default to dark theme
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
   features:
     - content.code.copy
     - content.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.top
+    - toc.integrate
+  language: en
+  static_templates:
+    - 404.html
+  extra_css:
+    - assets/custom.css
+  icon:
+    repo: fontawesome/brands/github
 
 nav:
   - Home: index.md
+  - About Plot Unfolding Machine: about-pum.md
+  - Plot Tracks: plot-tracks.md
+  - Plot Nodes: plot-nodes.md
+  - Plot Focus: plot-focus.md
+  - Dice Formula Expressions: dice-formulas.md
+  - Random Tables: random-tables.md
+  - Decks & Cards: decks-cards.md
+  - Markdown Text Styling: markdown-styling.md
+  - How to Play: how-to-play.md
+  - Game Concepts: game-concepts.md
+  - Oracles: oracles.md
+  - FAQ & Tips: faq-tips.md
+  - Resources & Downloads: resources.md
