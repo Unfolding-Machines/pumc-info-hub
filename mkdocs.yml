@@ -1,0 +1,19 @@
+site_name: PUM Companion Wiki Space
+site_description: Public knowledge base for PUM Companion:a tool for Solo RPG, storytelling, and journaling.
+site_url: https://Unfolding-Machines.github.io/pumc-wiki-space/
+repo_url: https://github.com/Unfolding-Machines/pumc-wiki-space/
+repo_name: Unfolding-Machines/pumc-wiki-space
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    scheme: default
+  features:
+    - content.code.copy
+    - content.tabs
+    - navigation.sections
+    - navigation.expand
+
+nav:
+  - Home: index.md
