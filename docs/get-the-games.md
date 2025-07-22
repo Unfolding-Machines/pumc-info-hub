@@ -33,4 +33,4 @@ Find all official Unfolding Machine products, apps, and community resources here
 
 ## 💬 Join the Discord Community!
 
-[https://discord.gg/k2rQMa33Kq](https://discord.gg/k2rQMa33Kq)
+[Click to join](https://discord.gg/k2rQMa33Kq)
