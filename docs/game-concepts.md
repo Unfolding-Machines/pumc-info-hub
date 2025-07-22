@@ -9,7 +9,7 @@ A Plot Beat is a significant moment or event in your story. It can be a scene, a
 An Oracle is a tool for answering questions and generating inspiration. Oracles can be simple (yes/no), complex ([Random Tables](../random-tables.md)), or narrative ([Oracles](oracles.md)). Learn more in the [Oracles](oracles.md) section.
 
 ## Scene
-A Scene is a narrative unit—an event, conversation, or action sequence. Scenes are often created or changed by Plot Beats. See the [Quick-Start Guide](quick-start-guide.md) for examples.
+A Scene is a narrative unit—an event, conversation, or action sequence. Scenes are often created or changed by Plot Beats.
 
 ## Plot Track
 A Plot Track is the structure of your story, divided into beats. It helps you organize your adventure and see your progress. See the [Plot Tracks](plot-tracks.md) page for details.
@@ -24,7 +24,7 @@ A Random Prompt is a suggestion from the app for what could happen next. It can 
 A Modified Proposal is when you suggest a scene, and the app adds a twist or change. See the [Plot Tracks](plot-tracks.md) page for usage.
 
 ## Entities
-Entities are characters, locations, or other important elements you track in the app. See the [Quick-Start Guide](quick-start-guide.md) for more info.
+Entities are characters, locations, or other important elements you track in the app.
 
 ---
 

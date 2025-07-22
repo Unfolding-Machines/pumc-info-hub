@@ -25,7 +25,3 @@ Export your log as PDF or text, or share random tables and decks with the commun
 - Mark important characters and locations as plot nodes for more dynamic prompts.
 - Don’t worry about perfection—embrace improvisation!
 - Change plot focus or track type as your needs change.
-
----
-
-For more help, see the [How to Play](how-to-play.md) guide or join the community!

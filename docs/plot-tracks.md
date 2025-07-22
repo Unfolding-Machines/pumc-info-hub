@@ -12,7 +12,7 @@ Before you create a Plot Track, define your Plot Scope. Is your story a full cam
 PUM offers several Plot Track templates, each suited for different play styles:
 
 - **Standard:** A generic structure for most games. Great for beginners and short stories.
-- **Improvised:** Build your track as you go. Perfect for freeform or evolving stories.
+- **Prepless:** Build your track as you go. Perfect for freeform or evolving stories.
 - **Escalating:** For stories that ramp up in intensity and challenge.
 - **Dungeon:** Structured for exploration and discovery.
 - **Journey:** Focused on travel, quests, and progression.
@@ -26,8 +26,9 @@ You can edit, expand, or rename sections of your Plot Track at any time. For imp
 
 ## Advancing the Plot
 You move forward on the Plot Track by playing Plot Beats. These can be:
+
 - **Random Prompts:** Let PUM suggest what happens next.
-- **Modified Proposals:** Propose your own scene, then let PUM add a twist.
+- **Modified Proposals:** Propose an important moment, and let PUM add a modification.
 
 Each Plot Beat can be a scene, event, or turning point. Use them to mark progress, celebrate victories, or introduce complications.
 

@@ -23,8 +23,7 @@ Navigate through the sections below to learn, discover, and contribute:
 
 - [About the Unfolding Machines](about-pum.md)
 
-### How to Play PUM
-  - [Quick-Start Guide](quick-start-guide.md)
+### Playing PUM
   - [Plot Tracks](plot-tracks.md)
   - [Plot Nodes](plot-nodes.md)
   - [Plot Focus](plot-focus.md)

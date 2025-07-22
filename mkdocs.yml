@@ -48,8 +48,7 @@ nav:
   # Information section moved to bottom
   - About the Unfolding Machines: about-pum.md
   - Community: community.md
-  - How to Play PUM:
-      - Quick-Start Guide: quick-start-guide.md
+  - Playing PUM:
       - Plot Tracks: plot-tracks.md
       - Plot Nodes: plot-nodes.md
       - Plot Focus: plot-focus.md

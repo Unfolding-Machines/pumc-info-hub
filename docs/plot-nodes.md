@@ -4,6 +4,7 @@ Plot Nodes are the essential elements that make up your story’s universe. They
 
 ## What are Plot Nodes?
 Plot Nodes are flexible, freeform entries you create to represent:
+
 - **Game or World Elements:** Key features that define your setting (e.g., ancient ruins, oppressive government, magical storms).
 - **Potential Obstacles:** Dangers, challenges, or enemies (e.g., rival factions, natural disasters, inner fears).
 - **Useful Findings:** Discoveries that help the protagonists (e.g., secret maps, powerful artifacts, hidden allies).
