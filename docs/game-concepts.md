@@ -24,7 +24,7 @@ A Random Prompt is a suggestion from the app for what could happen next. It can 
 A Modified Proposal is when you suggest a scene, and the app adds a twist or change. See the [Plot Tracks](plot-tracks.md) page for usage.
 
 ## Entities
-Entities are characters, locations, or other important elements you track in the app.
+Entities are characters, locations, and compendiums (in PUM Companion)
 
 ---
 

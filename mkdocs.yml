@@ -47,7 +47,6 @@ nav:
   - Welcome Page: index.md
   # Information section moved to bottom
   - About the Unfolding Machines: about-pum.md
-  - Community: community.md
   - Playing PUM:
       - Plot Tracks: plot-tracks.md
       - Plot Nodes: plot-nodes.md
@@ -62,5 +61,4 @@ nav:
       - Markdown Text Styling: markdown-styling.md
   - Information:
       - Get the games: get-the-games.md
-      - Resources & Downloads: resources.md
-      - FAQ: faq-tips.md
+      - Community: community.md

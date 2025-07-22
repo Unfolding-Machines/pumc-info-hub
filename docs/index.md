@@ -4,10 +4,10 @@
   <img src="assets/logos/pumc_icon_512.png" alt="PUM Companion Logo" width="120" style="margin-bottom: 0.5em;" />
 </p>
 
-# Welcome to the PUM Companion Community Wiki
+# Welcome to the PUM Companion Public Wiki
 
 <div class="pumc-intro-box">
-  This is your friendly, ever-growing knowledge base for <b>PUM Companion</b>—the app to play Plot Unfolding Machine. Here you’ll find everything you need to master solo RPGs, storytelling, and journaling, whether you’re a curious beginner or a seasoned solo adventurer.
+  This is a knowledge base for <b>PUM Companion</b>—the app to play Plot Unfolding Machine. Here you’ll find everything you need to master solo RPGs, storytelling, and journaling with the app, whether you’re a curious beginner or a seasoned solo adventurer.
 </div>
 
 <p align="center">
@@ -16,36 +16,9 @@
 
 ---
 
-
-## Explore the Wiki
-
-Navigate through the sections below to learn, discover, and contribute:
-
-- [About the Unfolding Machines](about-pum.md)
-
-### Playing PUM
-  - [Plot Tracks](plot-tracks.md)
-  - [Plot Nodes](plot-nodes.md)
-  - [Plot Focus](plot-focus.md)
-  - [Oracles](oracles.md)
-  - [Game Concepts](game-concepts.md)
-
-### PUM Companion
-  - [Dice Formula Expressions](dice-formulas.md)
-  - [Random Tables](random-tables.md)
-  - [Decks & Cards](decks-cards.md)
-  - [Markdown Text Styling](markdown-styling.md)
-
-### Information
-  - [Get the games](get-the-games.md)
-  - [Resources & Downloads](resources.md)
-  - [FAQ](faq-tips.md)
-
----
-
 ## Community & Contributions
 
-This wiki is built by and for the community! Share your tips, random tables, hacks, and stories. If you have questions or suggestions, join us on Discord or contribute to the [GitHub repository](https://github.com/Unfolding-Machines/pumc-wiki-space/).
+This wiki has been setup by me (JeansenVaars) for the PUM Companion community. Everyone is welcome to contribute improvements to it, so feel free to submit tips, random tables, hacks, and stories. If you have questions or suggestions, submit an issue ticket in the wiki Github, join us on Discord, or submit a Pull Request contribution to the [GitHub repository](https://github.com/Unfolding-Machines/pumc-wiki-space/).
 
 **Happy storytelling!**
 
