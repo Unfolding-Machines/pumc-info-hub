@@ -51,6 +51,26 @@ body, .md-typeset {
   font-style: italic;
 }
 
+
+/* Custom intro box for PUMC homepage */
+.pumc-intro-box {
+  font-size: 1.15em;
+  background: #f3e9e0;
+  border-left: 4px solid #bcaaa4;
+  color: #5d4037;
+  padding: 1em 1.5em;
+  margin: 1.2em 0;
+  border-radius: 8px;
+  font-style: italic;
+  box-shadow: 0 2px 8px rgba(110,80,60,0.07);
+}
+.md-theme-dark .pumc-intro-box {
+  background: #2d2420 !important;
+  border-left: 4px solid #8d6e63 !important;
+  color: #f3e9e0 !important;
+  box-shadow: 0 2px 8px rgba(30,20,10,0.18);
+}
+
 .md-typeset a {
   color: #8d6e63;
   text-decoration: underline dotted;

@@ -6,9 +6,9 @@
 
 # Welcome to the PUM Companion Community Wiki
 
-<blockquote style="font-size:1.15em; background:#f3e9e0; border-left:4px solid #bcaaa4; padding:1em 1.5em;">
-This is your friendly, ever-growing knowledge base for <b>PUM Companion</b>—the app to play Plot Unfolding Machine. Here you’ll find everything you need to master solo RPGs, storytelling, and journaling, whether you’re a curious beginner or a seasoned solo adventurer.
-</blockquote>
+<div class="pumc-intro-box">
+  This is your friendly, ever-growing knowledge base for <b>PUM Companion</b>—the app to play Plot Unfolding Machine. Here you’ll find everything you need to master solo RPGs, storytelling, and journaling, whether you’re a curious beginner or a seasoned solo adventurer.
+</div>
 
 <p align="center">
   <img src="assets/screenshots/pumc-wide.png" alt="PUMC App Overview" width="80%" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(110,80,60,0.07); margin: 1.5em 0;" />
