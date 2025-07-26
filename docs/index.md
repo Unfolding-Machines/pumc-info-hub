@@ -6,6 +6,38 @@
 
 # Welcome to the PUM Companion Public Wiki
 
+# 📚 Info Hub Navigation & Community
+
+Welcome! Here are some useful links to get started and participate:
+
+- [Improve this Info Hub on GitHub](https://github.com/Unfolding-Machines/pumc-info-hub)
+- [Report Feature Requests, Bugs, and Inquiries](https://github.com/Unfolding-Machines/pumc-info-hub/issues)
+- [Join the Discord Community](https://discord.gg/k2rQMa33Kq)
+
+## 📖 Navigation Index
+
+Explore the main sections of this wiki:
+
+- [About PUM](about-pum.md)
+- [Community](community.md)
+- [Decks & Cards](decks-cards.md)
+- [Dice Formulas](dice-formulas.md)
+- [Digital Play](digital-play.md)
+- [Digital Tools](digital-tools.md)
+- [Extras](extras.md)
+- [Game Concepts](game-concepts.md)
+- [Game Unfolding Machine](game-unfolding-machine.md)
+- [Get the Games](get-the-games.md)
+- [Markdown Styling](markdown-styling.md)
+- [Oracles](oracles.md)
+- [Plot Focus](plot-focus.md)
+- [Plot Nodes](plot-nodes.md)
+- [Plot Tracks](plot-tracks.md)
+- [Plot Unfolding Machine](plot-unfolding-machine.md)
+- [PUM Companion](pum-companion.md)
+- [Random Tables](random-tables.md)
+- [Scene Unfolding Machine](scene-unfolding-machine.md)
+
 <div class="pumc-intro-box">
   This is a knowledge base for <b>PUM Companion</b>—the app to play Plot Unfolding Machine. Here you’ll find everything you need to master solo RPGs, storytelling, and journaling with the app, whether you’re a curious beginner or a seasoned solo adventurer.
 </div>
