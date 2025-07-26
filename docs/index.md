@@ -2,13 +2,14 @@
   <img src="assets/logos/pumc_icon_512.png" alt="PUM Companion Logo" width="120" style="margin-bottom: 0.5em;" />
 </p>
 
-# PUM Companion Online Hub
+<h1 align="center">PUM Companion Online Hub</h1>
 
 ## 🤝 Essential Links
 
 - 💬 [Join the PUM Discord Community](https://discord.gg/k2rQMa33Kq)
 - 🐞 [Feature Requests, Bugs, Inquiries](https://github.com/Unfolding-Machines/pumc-info-hub/issues)
 - 🚀 [Improve the PUMC Online Hub on GitHub](https://github.com/Unfolding-Machines/pumc-info-hub)
+- 🌐 [Unfolding Machines Website & Blog](https://www.unfolding-machines.com)
 
 ## 📖 Navigation Index
 
