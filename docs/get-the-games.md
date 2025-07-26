@@ -5,6 +5,11 @@ Find all official Unfolding Machine products, apps, and community resources here
 
 ---
 
+
+## 🌐 Official Website
+
+- [Unfolding Machines Website](https://www.unfolding-machines.com/)
+
 ## 📚 Base Games (PDF Rulebooks)
 
 - **Plot Unfolding Machine (PUM):** [itch.io](https://jeansenvaars.itch.io/plot-unfolding-machine) | [DriveThruRPG](https://www.drivethrurpg.com/en/product/457293/plot-unfolding-machine)
@@ -26,7 +31,7 @@ Find all official Unfolding Machine products, apps, and community resources here
 - [Builder Widgets](https://jeansenvaars.itch.io/pumc-builder-widgets)
 - [3D Dice](https://jeansenvaars.itch.io/pumc-3d-dice)
 
-## 🌐 Other Digital Tools
+## 🛠️ Other Digital Tools
 
 - **Foundry VTT Module:** [Mythic GME Tools](https://foundryvtt.com/packages/mythic-gme-tools)
 - **Play by the Writing (Espanso):** [itch.io](https://jeansenvaars.itch.io/play-by-the-writing)
