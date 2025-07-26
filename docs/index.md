@@ -13,7 +13,7 @@
 
 ## 📖 Navigation Index
 
-### 🟠 Plot Unfolding Machine
+### Plot Unfolding Machine
 - [About PUM](about-pum.md)
 - [Game Concepts](game-concepts.md)
 - [Oracles](oracles.md)
@@ -21,7 +21,7 @@
 - [Plot Nodes](plot-nodes.md)
 - [Plot Tracks](plot-tracks.md)
 
-### 📚 Take the most of the app
+### Take the most of the app
 - [PUM Companion](pum-companion.md)
 - [Markdown Styling](markdown-styling.md)
 - [Dice Formulas](dice-formulas.md)
