@@ -1,20 +1,16 @@
-
-
 <p align="center">
   <img src="assets/logos/pumc_icon_512.png" alt="PUM Companion Logo" width="120" style="margin-bottom: 0.5em;" />
 </p>
 
-# Welcome to the PUM Companion Public Wiki
+# PUM Companion Info Hub
 
-# 📚 Info Hub Navigation & Community
+### 🤝 Essential Links
 
-Welcome! Here are some useful links to get started and participate:
+- [Improve the PUMC Info Hub on GitHub](https://github.com/Unfolding-Machines/pumc-info-hub)
+- [Feature Requests, Bugs, Inquiries](https://github.com/Unfolding-Machines/pumc-info-hub/issues)
+- [Join the PUM Discord Community](https://discord.gg/k2rQMa33Kq)
 
-- [Improve this Info Hub on GitHub](https://github.com/Unfolding-Machines/pumc-info-hub)
-- [Report Feature Requests, Bugs, and Inquiries](https://github.com/Unfolding-Machines/pumc-info-hub/issues)
-- [Join the Discord Community](https://discord.gg/k2rQMa33Kq)
-
-## 📖 Navigation Index
+### 📖 Navigation Index
 
 Explore the main sections of this wiki:
 
