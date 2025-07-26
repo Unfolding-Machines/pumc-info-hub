@@ -1,0 +1,15 @@
+/* Sidebar separator titles */
+.md-nav__title {
+  color: #b67616 !important;
+}
+
+/* Sidebar section links (group labels) */
+.md-nav__item--section > .md-nav__link {
+  color: #b67616 !important;
+}
+
+/* First-level and second-level headers */
+.md-typeset h1,
+.md-typeset h2 {
+  color: #b67616;
+}

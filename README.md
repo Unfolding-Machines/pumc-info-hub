@@ -61,3 +61,23 @@ Find all official Unfolding Machine products, apps, and community resources here
 Connect with other solo RPG enthusiasts, share your stories, ask questions, and get support in our vibrant Discord community:
 
 [**Click to join our Discord server**](https://discord.gg/k2rQMa33Kq)
+
+## Contributions Policy
+We welcome contributions that help the community, including:
+
+- Community tips and tricks for using PUM Companion to its best
+- Links to useful resources, tutorial videos, and reads (with proper credits)
+- Copyright-free or authorized `.PUMC` and templates (`.PUMT`, `.PUME`, `.PUMI`, `.PUMD`) links
+- General solo RPG play advice (considering different playstyles and preferences)
+
+Please ensure all contributions respect copyright and maintain a helpful, inclusive tone and credit the creators.
+
+## How to Run and Preview the page locally
+Git clone this repository, navigate to your local files or load VSCode, then:
+
+Install mkdocs: `pip install mkdocs mkdocs-material`
+
+Preview and run with: `mkdocs serve`
+
+### by JeansenVaars (Unfolding Machines) and the community
+Enjoy!

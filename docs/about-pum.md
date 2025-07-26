@@ -11,7 +11,7 @@ The **Unfolding Machine series** — **PUM**, **SUM**, and **GUM** — are innov
 ---
 
 
-## 🟤 Plot Unfolding Machine (**PUM**)
+## Plot Unfolding Machine (**PUM**)
 
 **PUM** is the main system for solo RPG play. It helps you develop stories using a tabletop RPG and dice, providing prompts, challenges, and stakes for your protagonists.
 
@@ -37,7 +37,7 @@ The **Unfolding Machine series** — **PUM**, **SUM**, and **GUM** — are innov
 ---
 
 
-## 🟣 Scene Unfolding Machine (**SUM**)
+## Scene Unfolding Machine (**SUM**)
 
 **SUM** is a supplement of random tables to spark ideas during your roleplaying games. It’s designed for solo or GM-less play, and is especially useful for improvising scene content and NPC personalities, dialogue, and reactions.
 
@@ -61,7 +61,7 @@ The **Unfolding Machine series** — **PUM**, **SUM**, and **GUM** — are innov
 ---
 
 
-## 🟢 Game Unfolding Machine (**GUM**)
+## Game Unfolding Machine (**GUM**)
 
 **GUM** is a modular Game Master’s assistant for worldbuilding and game prep. It provides ideas for creating and playing your game, with a game creation guide and a set of inspiring random tables for items, enemies, creatures, factions, and more.
 

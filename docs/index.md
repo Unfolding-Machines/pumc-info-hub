@@ -40,7 +40,7 @@
 
 ## Community & Contributions
 
-This wiki has been setup by me (JeansenVaars) for the PUM Companion community. Everyone is welcome to contribute improvements to it, so feel free to submit tips, random tables, hacks, and stories. If you have questions or suggestions, submit an issue ticket in the wiki Github, join us on Discord, or submit a Pull Request contribution to the [GitHub repository](https://github.com/Unfolding-Machines/pumc-wiki-space/).
+This page has been setup for the PUM Companion community. Everyone is welcome to contribute improvements to it, so feel free to submit tips, random tables, hacks, and stories. If you have questions or suggestions, submit an issue ticket in  Github, join us on Discord, or submit a Pull Request contribution to the [GitHub repository](https://github.com/Unfolding-Machines/pumc-online-hub/).
 
 **Happy storytelling!**
 

@@ -1,11 +1,11 @@
 theme:
 
-site_name: PUM Companion Wiki Space
+site_name: PUM Companion Online Hub
 site_description: >-
-  A cozy, professional, and inspiring community wiki for PUM Companion: the app for solo RPG, storytelling, and journaling. Discover, create, and share your stories.
-site_url: https://Unfolding-Machines.github.io/pumc-wiki-space/
-repo_url: https://github.com/Unfolding-Machines/pumc-wiki-space/
-repo_name: Unfolding-Machines/pumc-wiki-space
+  Online Hub for PUM Companion: the app for solo RPG, storytelling, and journaling. Discover, create, and share your stories.
+site_url: https://Unfolding-Machines.github.io/pumc-online-hub/
+repo_url: https://github.com/Unfolding-Machines/pumc-online-hub/
+repo_name: Unfolding-Machines/pumc-online-hub
 edit_uri: edit/main/docs/
 
 theme:
@@ -16,7 +16,7 @@ theme:
     text: 'Merriweather'
     code: 'Fira Mono'
   palette:
-    - scheme: slate  # Default to dark theme
+    - scheme: slate
       primary: brown
       accent: amber
       toggle:
@@ -38,14 +38,13 @@ theme:
   language: en
   static_templates:
     - 404.html
-  extra_css:
-    - assets/custom.css
   icon:
     repo: fontawesome/brands/github
 
+extra_css:
+  - stylesheets/custom.css
 nav:
   - Welcome Page: index.md
-  # Information section moved to bottom
   - About the Unfolding Machines: about-pum.md
   - Playing PUM:
       - Plot Tracks: plot-tracks.md
@@ -61,4 +60,3 @@ nav:
       - Markdown Text Styling: markdown-styling.md
   - Information:
       - Get the games: get-the-games.md
-      - Community: community.md
