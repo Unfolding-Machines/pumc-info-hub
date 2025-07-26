@@ -2,37 +2,30 @@
   <img src="assets/logos/pumc_icon_512.png" alt="PUM Companion Logo" width="120" style="margin-bottom: 0.5em;" />
 </p>
 
-# PUM Companion Info Hub
+# PUM Companion Online Hub
 
-### 🤝 Essential Links
+## 🤝 Essential Links
 
-- [Improve the PUMC Info Hub on GitHub](https://github.com/Unfolding-Machines/pumc-info-hub)
-- [Feature Requests, Bugs, Inquiries](https://github.com/Unfolding-Machines/pumc-info-hub/issues)
-- [Join the PUM Discord Community](https://discord.gg/k2rQMa33Kq)
+- 💬 [Join the PUM Discord Community](https://discord.gg/k2rQMa33Kq)
+- 🐞 [Feature Requests, Bugs, Inquiries](https://github.com/Unfolding-Machines/pumc-info-hub/issues)
+- 🚀 [Improve the PUMC Online Hub on GitHub](https://github.com/Unfolding-Machines/pumc-info-hub)
 
-### 📖 Navigation Index
+## 📖 Navigation Index
 
-Explore the main sections of this wiki:
-
+### 🟠 Plot Unfolding Machine
 - [About PUM](about-pum.md)
-- [Community](community.md)
-- [Decks & Cards](decks-cards.md)
-- [Dice Formulas](dice-formulas.md)
-- [Digital Play](digital-play.md)
-- [Digital Tools](digital-tools.md)
-- [Extras](extras.md)
 - [Game Concepts](game-concepts.md)
-- [Game Unfolding Machine](game-unfolding-machine.md)
-- [Get the Games](get-the-games.md)
-- [Markdown Styling](markdown-styling.md)
 - [Oracles](oracles.md)
 - [Plot Focus](plot-focus.md)
 - [Plot Nodes](plot-nodes.md)
 - [Plot Tracks](plot-tracks.md)
-- [Plot Unfolding Machine](plot-unfolding-machine.md)
+
+### 📚 Take the most of the app
 - [PUM Companion](pum-companion.md)
+- [Markdown Styling](markdown-styling.md)
+- [Dice Formulas](dice-formulas.md)
+- [Decks & Cards](decks-cards.md)
 - [Random Tables](random-tables.md)
-- [Scene Unfolding Machine](scene-unfolding-machine.md)
 
 <div class="pumc-intro-box">
   This is a knowledge base for <b>PUM Companion</b>—the app to play Plot Unfolding Machine. Here you’ll find everything you need to master solo RPGs, storytelling, and journaling with the app, whether you’re a curious beginner or a seasoned solo adventurer.
